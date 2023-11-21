@@ -1,0 +1,156 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Duplicate
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Duplicate
+ identifier : 0x23340ecc046696f8
+ internal_properties : CAAAAAgAAABJGdSh//QsmhD3VgAwElSDuWw94MtbSFFokLY2B3B8kch7Wq0UDGpKQUQlmGbO7eW6bZk18xl+vAHIui67xyuEehl1Nw25tBixldGU8VlY0ofMKH/LYyq6TC8beNRmm8ZXi9J+8Xzi4WRV7DKEjcK50x/pUzLPrGXXcaB5e9htOvas12CrRsRK1WHyyZqoaelJkdFXCuVZSZSQQT5UiE+JsjpzRFPLbXtDf9wLI/CSJzDMyamgKCj6+c9un7fBSSkTXKHPRZJszsBqaJAlbO/dOU2jUnXaiI74Kx1cSVZpYq7oB/v3bjFVbfbiuVcHD0XUQhD8IH3RkBdBaC8Zk7Ft0ZNujy+1qypBNVL9sE/Zb4GPD7R95hisZxme/jc+YohXfrlpdjujx/hCvn3SJHRZCNDgX1ZWYkuVbBD/4j9pQMc5sJGLDB4HyZ2vMS8HEfIHhcWEawJ2sIxhFoSwX2l4Iv3SjZyTXrnMXj3NYA8EbJKajELXIIsYYlFinWjLICKcwg1xf8NY2Ul12N1E0gbvO10YBJvr6aqHXZD/++tB7ne44K27K8zxGDCxMDXmwCIcxE2CPkXaie7t4CHxvAMhkbjXSbEDCQG89+7HSoVKrmAWb9rP9XhjcbHDm39iZKM7K07GQDllSEmvlk6LtT9dyZUsDtvjHyY94zNKOo2HMBJ15nfLlPHa0/LBE9gVBi+LLyKtupHShPGz9//oFcGqPsLYs8X08AsqSLd622uP3SWt2xkFZpkKeJDJRMs7OcDIvM4zMlZkp9oUZTrlMBQ8iF5P5ssLX1yRsLUFgEJbimIiPWj2sTQ3IXgrT+hvgdTtBfBnARtPmVYK1xGywxsAjxo0+Pf3m5Wu1bvw8hOXa6c2PxhjpfyXqeXeEahJMhtvPa2FsI7EtI8HyeC6v6fiDbgx7q0VUg==
+ properties :
+  width : 481
+  height : 249
+  widthClient : 479
+  heightClient : 217
+ controls :
+  -
+    name : RADIO_CHOICE
+    identifier : 0x23340ecc046796f8
+    internal_properties : CAAAAAgAAAB6DDO1Mu/j8w3pBjsFNzxZWWsa9W6mNXqBNz2dMmdUL+EMhsNYnsI4pYECd5xytRH/LtzzJ024ByfM4O683ZWrTdwoxOzfORNvWnBKhTzpMa+A5d976XrIVKb7nlrLYl3CaJSAAw8qbIzeub95DgHVcaxDdX/zFpWtF2J9TYA6HQp/g5o/j0Tkmdawng1a8ES/dWes8HXTKb/RBKxxn5YuIFAA7AX22269BNoJA8SImO6El96XCuOwByK4PvyMzE/QnbEViO4/+fPswUq3Z32+adcGd0O8/iOe9G4X9Ig7G5Wd0ZPaHq3FQNQSbn4vsBjynHZZHiUO6vBp2SUcoKmF7I+2F/dz1+TxUAaP5zT+qN31eHfVT+x/SGk5N1iJ+TBYQimADr51Zr3/JoN5Zn8xc+WBHwJmgP/69HgwlJCrLo3WFvL5uyeVkvJgJQd7vBmEMEXIRDybLOfvk9UHV64nGnbGtrDIq7O3TsgxuisLtYvQDPSFMck9LR8E2AOGfcrqKZteEDohwG0/U2/NRSz3Lrm7A/+o8BUlSLAQ7kh5pZd2gvjjLgJjFbLvcdF16Da6WFzU3uokgN2NpiFhKnmKuElgnATDCTPu2r7Yagkj950EY0xhLaW7Y0GfRpsmcOnQQl6/zF5zwNeSXDKHgnk3Oo16ENnIcXNpUlym1IiDz0nXFA4gMDPo46g+5kgd8L6CYkp7Ph9uuOe+KXHCTQolCu5he8nO/nHSeEFLaCkaGI9CrBDtH2TuW3GFfrJVt7bSsCNje9L/7AzGXMtnjW2jbtUqa/Lmjn1ubHnnvsKmau0zps5AW0+nwUA8o31KuXHBjfeWP5tdEHCuFAGgF9IESo0pJllcTSS9GZ4D+qm9aP0UduNVMzv1/qeq/XElDh4NTPcHWs5j7jy6pCABSuzVW4z1gu4s/sjo6XMyDYuyDPLtbXhhZQhlGbhSi51CIM4f/yB3m38VmTUO17o6dFLTloxyh16Iv89b/QWT7JOGciDOY1mXLaEXyXD1F81RA/m5+z/Tnddew+ai9/WrdZHeerlWUdLFpUenPLe6Oh9oe3yJI1GNfsKsftZTyAF8z9cTn/Al7QGvt3ipKtrIPS/cadMw3N7oEPga0ga44+rszPo9MuD2yjn4eLh/Q5n3R6lp6Q==
+    properties :
+     x : 98
+     y : 94
+     width : 282
+     height : 77
+    options :
+     -
+       internal_properties : CAAAAAgAAADfLrLQ4NVsfv9bDdPHMxX6YoA6KTtam1XdpLv4dxaMRCbiQIufuNWZpYdvzANvQzmhsCAjPtnDycq2TIbfegYSjKht43DupTFc896CZnrfJ5rvp6ajj/g76+T1vmIBHtBqeH3UZn452W3TSwoy4g95sDakgEaVoWpXr6vxAWcRNBk/3pk=
+     -
+       internal_properties : CAAAAAgAAABjea0eF7QCGAWkifJenc9Ld1LPJar1525s+FH3xYtvBEOx/70leCFz3ZMYmsqJH8vLpfPZL0sE3uM/b2w6rGbnFPh1/xYVfP3o+wlbrD3ByyYCjcN6AL/wHophc8PgiHSucxMT2bMu9Da1zd3vHZpgMxQhwR82QDNKVl+4/a0RU613s+KzD7qhbm9XDp+5GOA1WZTbPe+l12HJ
+     -
+       internal_properties : CAAAAAgAAADmYumJtOsoonQjHtjZ37exhEtToT1TIT14P/Mua9xOnFlX6OH5zohCNOPtd/+EHC4sNlOMIgleZrFJrmg58jc4dnHvOhrlLSzNI26GFzgBmMoMIp31awb+Dp6gnCGpyOOms2anZljv/ibzPE47uODnFcxl1IfLFhNeblC/yzQUDO4ewWvPyoW5U1Y9KJ33FBo8TG3X9KL1
+     -
+       internal_properties : CAAAAAgAAABElji0EZq9+V21GUx37rudDMDZydtDdGlcNJmlPdePhmGONeNwdFZQojKUxxi39YRZuDR6rK6X6TaPZHycWcz0AoeQcOa8mTQfs/vxsMKVMJaASuK0K7o0bMhGWzITDmlIqqnpJlkgV3vaZ0gzb49yoj3KDA3sQ3sc3hR2N7Sklj7SYBPMFyZJdmlkX6I5ow==
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : BTN_OK
+    identifier : 0x23340ecc046c96f8
+    internal_properties : CAAAAAgAAAD6+IM6NhbF2RJ5jnvxYtUnu7L3ZgiCFqZWuCGa9H1LEaOVTHfT7zN7BSBEZ/AIJ8mA0EMCWN7D/rTS2VrUOKPTWxYXzAwzrMoKe+d2h6NYpxrfpVfyJSHszJA4XYZRXUefi17XgmBTGb8oh2Ifh5ZGqQulcIHUcviPFwObpMRuWniJ2zzY85wAdyjN6KEQwwHvfWzzBIkXzfTd+Txb7X2UK7yWx4yyE6bPB4PN14F0tSbUIpaEwN/dq/vdcqecQ+YsWge9McRz4lylCrVXaJb9PI8U5PdcclEF+sN0sc9Soykp8Jj/dgmIzmUO9IOgpy8RWAAxFN+CLorW+FhvBL8DavBEI3bVyrwGq+IAiZ1dRLCw4kS1Zvh/D4/S8FJy/23Wk+QSm9m6ifEVTr8QKLTGsdzrhdMI2ku0LsptCmOF3fGffgtZYV/gEcaHjFG0U7vXmZkdsRTgZr/f+foZtGxQ9Xzj9FrXnwKgE611QL+QSrWCQ/T2tqNuuEV5wgaZhjzYbfrVbBD21+/2WcAId/TzJcwmJ70oWV+aJiNUdWppSNOqunEcP5FQlT8m6+i1vqPVB6Nm3xHzDV8KwwEwWZL0+H+gWTW2lcn3eeKMsC1hWXOQolIc7w8HnqpXdkn3YRJs8TXud3uVCn/zSe3SNYPi7LwCEChXsyZhevDw+yQaAXyQM4o3P2HzKA1tY5wNLGlk3W/EX0+CvGXnvtLJ+Yo9fZQSyvksdc9o+C2ZyEp6cGdUlum65iu50qZ3VBq5wP4FQezibR7U6LZENUzS+1qsYF2F/ba6K4jt/ZZpQbLojOeOhpsvp/mJVnesSzrp/Nri0+TejVJCBl4QmzoOkXS/yxwG6StCfEQQbBZn2J0MC4Jmlk+VUUZg6KopT48jNoFVb1gxpDkkAw5Ihlw6O8W0owCg/k16eiisIMvW1yuGZF5LrE6Bazd2CnLuUQxhM6tQlVk=
+    properties :
+     x : 186
+     y : 187
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_STATIC
+    identifier : 0x23340ecc046d96f8
+    internal_properties : CAAAAAgAAABpKrKvd7NSKuUJD7+3F2mfnJYLRHooeqigSR0pY6cxrTL/mc5QhMJAX69UedTH853pnFmol+kZLEWErTyt3u7sCE6XQTBLExMj1gIJ7NzNjO8JjNmd73B9E4U9vfrxHN7yrAdPSwe/I03VpFGIAthr0AaIex+JMJlfqt7g6Ey/Tx9ZTvFWiLPfwFAYVZkG7c0wx0Wm67AzwQayPt83awyvHySawAwWDgJeA9v3yvTZOtSlIUDJ4ElY/fYqEjsv0GVONviFWoFTT/nh2PY8Ngxy8zuPg+hPcLOglUYzbIzYRXmJGbThYys+3biPDBHqJ7QLG03bow+nmK5pE5g+OGeMojXFc5LgN9lxGtz81bwTQuUJ9hAKmqG6VD/qZlxiyyPChXAxF6Ru6HRm06GDiVH8Oe7vOKMUDSQUoTHn3RNxB9h+pFRZaDJJQDdJGo/gMJ/XYFz3HxMyVYUsBR9p1Ja5vdDYiolQ9Q2VcUqrqPUtpLe4CwgncT4QaTzzzV7Cuj4+wdle6OhJIOC9eBjbBGn2Ia+akXEceZcjqJ6dDmh3pV35emimM1yBhzpDAWJEcFdbJJMbkKIDRxH9tjI1clmQoaCHAjU6l5u59gkfNOgBnNMHa/ElNFbc3sjPDp35XcvxI/Q5B2d33rj/eeJT2t5WjrOjQVw0q0eLvy/B+t0=
+    properties :
+     x : 6
+     y : 6
+     width : 467
+     height : 74
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2566fbb422f4a0d8
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADUnJzF6mdHMExr8Tv1pAp1pTd9QyJ762jcM7wR1Alp1ucLB/AS26cQYqUkja4MVctkkdBW2hw6jdqLq5HCgQ4A1e3mXSSdNzNM97LTRmFQFihwO3eMK2a/+3iq/nZf
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procedure WIN_Duplicate()
+   -
+     code : |1-
+      sMessage is string = [
+      The security mechanism was triggered for the %1 application.
+      A duplicate error was detected.
+      A data that already exists was entered for the <%2> item of <%3> file.
+      ]
+      // Error message
+      STC_STATIC = StringBuild(sMessage, fExtractPath(ExeInfo(exeName), fFileName), HErrorInfo(hErrItem), HErrorInfo(hErrFile))
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      SWITCH RADIO_CHOICE
+      	CASE 1
+      		RESULT opRetry	// retry
+      	CASE 2
+      		RESULT opCancel		// continue the current process
+      	CASE 3
+      		RESULT opEndProcess	// stop the current process
+      	CASE 4
+      		RESULT opEndProgram		// stop the program
+      	
+      	OTHER CASE 
+      		// We never go through here
+      		RESULT 0
+      END
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c60f5276a438ef8
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : A duplicate error occurred
+     index : 2
+   -
+     text :
+      en-GB : The security mechanism of %1 was triggered
+     index : 3
+   -
+     text :
+      en-GB : A data was entered for the <%1> item of <%2> file that already exists
+     index : 4
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
